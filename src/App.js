@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import * as $ from "jquery";
-import { authEndpoint, clientId, redirectUri, scopes, geniusToken } from "config";
+import { authEndpoint, clientId, redirectUri, scopes, geniusToken } from "./config";
 import hash from "./hash";
 import Player from "./Player";
 //import logo from "./logo.svg";
